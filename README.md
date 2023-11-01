@@ -1,16 +1,18 @@
-### Hi there 👋
+**Lead Software Developer | Spring Boot, Kubernetes, Kafka, Camunda**
 
-<!--
-**hakanaslim/hakanaslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**E-Mail**: hakan.aslim@gmail.com
 
-Here are some ideas to get you started:
+**LinkedIn**: https://www.linkedin.com/in/hakanaslim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Education**: University Master Degree
+
+> Java, SpringBoot, Docker, Kubernetes, AWS, Azure,
+Microservices, TDD, BDD, Mockito, Restful, SOA Web Services,
+Maven, Git, Jira, Jenkins, Nexus, Sonarqube, ArgoCD,
+Kafka, Camunda, BPMN, Hazelcast, Redis, Elasticsearch, Hibernate, Liquibase, Flyway,
+Javascript, Typescript, Angular, JSF, JSP, Servlet, HTML5, CSS3, JWT, OAuth2,
+Linux, Oracle, PostgreSQL, Sql Server, MongoDB, MySQL, WebLogic, Tomcat,
+Pair Programming, SAFe/Agile, Scrum, PlantUML
+
+
+
